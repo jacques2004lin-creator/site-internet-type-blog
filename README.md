@@ -1,7 +1,11 @@
 # site-internet-type-blog
 portfolio
 
-# Répartition du projet Ananta
+
+Ce projet est une implémentation complète du site web type blog en HTML et CSS.
+Il a été réalisé dans un but pédagogique afin de mettre en pratique les bases d'un site web.
+
+Répartition du projet Ananta
 
 FERTATE Walid:  
 Accueil :  
